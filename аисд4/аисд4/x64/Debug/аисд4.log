@@ -1,0 +1,10 @@
+﻿  tree.c
+C:\Users\Paolalalapie\Downloads\Telegram Desktop\tree.c(216,13): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "unsigned short *", но вариативный аргумент "1" имеет тип "const char *"
+      C:\Users\Paolalalapie\Downloads\Telegram Desktop\tree.c(216,13):
+      рекомендуется использовать "%hs" в строке форматирования
+      C:\Users\Paolalalapie\Downloads\Telegram Desktop\tree.c(216,13):
+      рекомендуется использовать "%Ts" в строке форматирования
+      C:\Users\Paolalalapie\Downloads\Telegram Desktop\tree.c(216,13):
+      это предупреждение основано на нестандартной семантике, используемой Visual C++
+  
+  аисд4.vcxproj -> C:\Users\Paolalalapie\source\repos\аисд4\x64\Debug\аисд4.exe

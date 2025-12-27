@@ -1,0 +1,36 @@
+digraph BST {
+    node [shape=circle, style=filled, fillcolor=lightblue];
+    node0 [label="Яблоко"];
+    node1 [label="Абрикос"];
+    null0 [shape=point];
+    node1 -> null0;
+    node2 [label="Персик"];
+    node3 [label="Мандарин"];
+    node4 [label="Банан"];
+    null1 [shape=point];
+    node4 -> null1;
+    null2 [shape=point];
+    node4 -> null2;
+    node3 -> node4;
+    node5 [label="Мебель"];
+    null3 [shape=point];
+    node5 -> null3;
+    null4 [shape=point];
+    node5 -> null4;
+    node3 -> node5;
+    node2 -> node3;
+    node6 [label="Фикус"];
+    node7 [label="Помогите"];
+    null5 [shape=point];
+    node7 -> null5;
+    null6 [shape=point];
+    node7 -> null6;
+    node6 -> node7;
+    null7 [shape=point];
+    node6 -> null7;
+    node2 -> node6;
+    node1 -> node2;
+    node0 -> node1;
+    null8 [shape=point];
+    node0 -> null8;
+}
