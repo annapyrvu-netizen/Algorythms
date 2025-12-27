@@ -1,0 +1,3 @@
+﻿  main aisd2.c
+C:\Users\Paolalalapie\source\repos\аисд lab2\аисд lab2\main aisd2.c(188,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  аисд lab2.vcxproj -> C:\Users\Paolalalapie\source\repos\аисд lab2\x64\Debug\аисд lab2.exe
